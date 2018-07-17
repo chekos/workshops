@@ -4,7 +4,7 @@
 
 **Jupyter Notebook**: "*The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.*" - Jupyter.org
 
-**.ipynb**: file extension for Jupyter Notebooks (comes from "IPython Notebook")
+**.ipynb**: file extension for Jupyter Notebooks (comes from "IPython Notebook"). You **can't** double-click a `.ipynb` file like you would an excel or word file to open because `jupyter` is not a program. You will need to launch `jupyter lab` (or a `notebook`) to interact with the `.ipynb` file.
 
 **Code cell**: "*A code cell allows you to edit and write new code, with full syntax highlighting and tab completion. The programming language you use depends on the kernel, and the default kernel (IPython) runs Python code.*"
 
