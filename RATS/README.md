@@ -39,5 +39,6 @@ Resources / References:
 
 Tutorials
   - [Enthought (Scientific Python - youtube channel)](https://www.youtube.com/user/EnthoughtMedia)
+    - [Getting Started with Jupyter Lab (Beginner) - "2 hours" but only about 45-60 minutes of content](https://www.youtube.com/watch?v=Gzun8PpyBCo)
   - [Datacamp's Ultimate Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
