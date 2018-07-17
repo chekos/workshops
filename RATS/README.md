@@ -18,11 +18,11 @@ Tentative agenda:
 | 2:40 | <ul> <li> Notebook examples <li> Code along (interactive chart) <li> Other cool notebooks |
 
 ***
-* [Glossary](/glossary.md)
-* [FAQ](/FAQ.md)
+* [Glossary](glossary.md)
+* [FAQ](FAQ.md)
 ***
 Resources / References:
-- [Resources folder (PDFs, notebooks, and other cool things)](/Resources/)
+- [Resources folder (PDFs, notebooks, and other cool things)](Resources/)
 - ["The Scientific Paper is Obsolete" by The Atlantic](https://theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). 
 - [Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
   - [Sociology Paper w/ Jupyter Notebook](https://osf.io/preprints/socarxiv/szxdm?file=5a8b336760511e000ddc4e7a)
