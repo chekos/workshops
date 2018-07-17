@@ -11,7 +11,7 @@ Tentative agenda:
 | Time | Topic |
 |:----:|:-----|
 | 2:00 | <ul> <li> Who has heard of `Jupyter` (`notebooks`)? <li> Who *knows* what `jupyter notebooks` are? </ul>|
-| 2:10 | <ul> <li> What is Jupyter? </li><li> What is Anaconda? </li><li> Jupyter Notebooks / Lab <li> User interface <li> features </u1> |
+| 2:10 | <ul> <li> What is Jupyter? [Try it!](jupyter.org/try)</li><li> What is Anaconda? </li><li> Jupyter Notebooks / Lab <li> User interface <li> features </u1> |
 | 2:20 | Live demo <ul> <li> Log in to `berryessa` (or `tahoe`) <li> set up `chrome` as default browser <li> Launch `jupyter lab` </ul> |
 | 2:30 | 5-minute Q&A break |
 | 2:35 | Moving to [104.154.153.219](104.154.153.219) |
