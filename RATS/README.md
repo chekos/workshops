@@ -23,7 +23,7 @@ Tentative agenda:
 | 2:10 | <ul> <li> What is Jupyter? [Try it!](jupyter.org/try)</li><li> What is Anaconda? </li><li> Jupyter Notebooks / Lab <li> User interface <li> features </u1> |
 | 2:20 | Live demo (you may follow along if you'd like) <ul> <li> Log in to `berryessa` (or `tahoe`) <li> set up `chrome` as default browser <li> Launch `jupyter lab` </ul> |
 | 2:30 | 5-minute Q&A break |
-| 2:35 | Moving to [104.154.153.219](104.154.153.219) <br> run `git clone https://github.com/chekos/workshops/tree/master`|
+| 2:35 | Moving to [104.154.153.219](104.154.153.219) <br> run `git clone https://github.com/Chekos/workshops/tree/master/RATS`|
 | 2:40 | <ul> <li> Notebook examples <li> Code along (interactive chart) <li> Other cool notebooks |
 
 ***
