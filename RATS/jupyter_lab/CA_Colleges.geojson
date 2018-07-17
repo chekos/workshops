@@ -1,0 +1,3855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of Alameda",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.279261,
+          37.78239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Allan Hancock College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.42148600000002,
+          34.942979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "American River College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.34601200000002,
+          38.649734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Antelope Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18616599999999,
+          34.676207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Antelope Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18616599999999,
+          34.676207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Antelope Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18616599999999,
+          34.676207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Antelope Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18616599999999,
+          34.676207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Bakersfield College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.973491,
+          35.4108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Bakersfield College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.973491,
+          35.4108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Bakersfield College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.973491,
+          35.4108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Bakersfield College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.973491,
+          35.4108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Barstow Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02523000000001,
+          34.871451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Butte College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.644691,
+          39.649116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cabrillo College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.927926,
+          36.9891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California Polytechnic State University-San Luis Obispo",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657311,
+          35.299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California Polytechnic State University-San Luis Obispo",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657311,
+          35.299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California Polytechnic State University-San Luis Obispo",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657311,
+          35.299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California Polytechnic State University-San Luis Obispo",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657311,
+          35.299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Bakersfield",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.10471100000001,
+          35.350004999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Bakersfield",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.10471100000001,
+          35.350004999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Bakersfield",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.10471100000001,
+          35.350004999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Bakersfield",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.10471100000001,
+          35.350004999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Stanislaus",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.852511,
+          37.52577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Stanislaus",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.852511,
+          37.52577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Stanislaus",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.852511,
+          37.52577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Stanislaus",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.852511,
+          37.52577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Bernardino",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32250800000001,
+          34.182987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Bernardino",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32250800000001,
+          34.182987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Bernardino",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32250800000001,
+          34.182987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Bernardino",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32250800000001,
+          34.182987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State Polytechnic University-Pomona",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819019,
+          34.054272999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State Polytechnic University-Pomona",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819019,
+          34.054272999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State Polytechnic University-Pomona",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819019,
+          34.054272999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State Polytechnic University-Pomona",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819019,
+          34.054272999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Chico",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84485900000001,
+          39.729712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Chico",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84485900000001,
+          39.729712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Chico",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84485900000001,
+          39.729712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Chico",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84485900000001,
+          39.729712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Dominguez Hills",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259316,
+          33.86524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Dominguez Hills",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259316,
+          33.86524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Dominguez Hills",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259316,
+          33.86524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Dominguez Hills",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259316,
+          33.86524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fresno",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.748258,
+          36.814477000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fresno",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.748258,
+          36.814477000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fresno",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.748258,
+          36.814477000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fresno",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.748258,
+          36.814477000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fullerton",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885349,
+          33.883627000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fullerton",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885349,
+          33.883627000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fullerton",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885349,
+          33.883627000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Fullerton",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885349,
+          33.883627000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-East Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058073,
+          37.657070000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-East Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058073,
+          37.657070000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-East Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058073,
+          37.657070000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-East Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058073,
+          37.657070000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Long Beach",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11204,
+          33.782818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Long Beach",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11204,
+          33.782818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Long Beach",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11204,
+          33.782818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Long Beach",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11204,
+          33.782818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Los Angeles",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16896499999999,
+          34.066927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Los Angeles",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16896499999999,
+          34.066927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Los Angeles",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16896499999999,
+          34.066927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Los Angeles",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16896499999999,
+          34.066927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Northridge",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.526817,
+          34.236709999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Northridge",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.526817,
+          34.236709999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Northridge",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.526817,
+          34.236709999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Northridge",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.526817,
+          34.236709999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Sacramento",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42193999999999,
+          38.55745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Sacramento",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42193999999999,
+          38.55745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Sacramento",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42193999999999,
+          38.55745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Sacramento",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42193999999999,
+          38.55745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Berkeley",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26046299999999,
+          37.871918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Berkeley",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26046299999999,
+          37.871918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Berkeley",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26046299999999,
+          37.871918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Berkeley",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26046299999999,
+          37.871918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Davis",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.751958,
+          38.539895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Davis",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.751958,
+          38.539895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Davis",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.751958,
+          38.539895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Davis",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.751958,
+          38.539895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Irvine",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841248,
+          33.648434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Irvine",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841248,
+          33.648434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Irvine",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841248,
+          33.648434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Irvine",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841248,
+          33.648434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Los Angeles",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443901,
+          34.068892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Los Angeles",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443901,
+          34.068892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Los Angeles",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443901,
+          34.068892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Los Angeles",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443901,
+          34.068892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Riverside",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331098,
+          33.97588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Riverside",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331098,
+          33.97588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Riverside",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331098,
+          33.97588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Riverside",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331098,
+          33.97588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-San Diego",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.237793,
+          32.876598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-San Diego",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.237793,
+          32.876598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-San Diego",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.237793,
+          32.876598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-San Diego",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.237793,
+          32.876598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Barbara",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846426,
+          34.416297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Barbara",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846426,
+          34.416297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Barbara",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846426,
+          34.416297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Barbara",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846426,
+          34.416297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Cruz",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058801,
+          36.995584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Cruz",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058801,
+          36.995584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Cruz",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058801,
+          36.995584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Santa Cruz",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058801,
+          36.995584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University Maritime Academy",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231551,
+          38.069061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University Maritime Academy",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231551,
+          38.069061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University Maritime Academy",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231551,
+          38.069061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University Maritime Academy",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231551,
+          38.069061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Canada College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.265549,
+          37.44736500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of the Canyons",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.569524,
+          34.403121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cerritos College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.09726299999998,
+          33.88584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cerro Coso Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.66770600000001,
+          35.567763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Chabot College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10696899999999,
+          37.642513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Chaffey College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.573086,
+          34.14705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Citrus College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88526599999999,
+          34.135487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "City College of San Francisco",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451155,
+          37.725953000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Coastline Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.929143,
+          33.715634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Columbia College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.387603,
+          38.030361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "El Camino College-Compton Center",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20918600000002,
+          33.876665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Contra Costa College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342386,
+          37.968623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cosumnes River College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42297099999999,
+          38.453835999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Crafton Hills College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.101173,
+          34.039178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cuesta College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74223500000001,
+          35.331276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cuyamaca College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.94104399999999,
+          32.743072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Cypress College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.02388899999998,
+          33.827625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "De Anza College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04536499999999,
+          37.319176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of the Desert",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.38761000000001,
+          33.732484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Diablo Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06986100000002,
+          37.968035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "East Los Angeles College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14838400000001,
+          34.039204999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "El Camino Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.326623,
+          33.885585999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Evergreen Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.766686,
+          37.301736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Feather River Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.970877,
+          39.952395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Feather River Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.970877,
+          39.952395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Feather River Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.970877,
+          39.952395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Feather River Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.970877,
+          39.952395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Foothill College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12796399999999,
+          37.361655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Foothill College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12796399999999,
+          37.361655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Foothill College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12796399999999,
+          37.361655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Foothill College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12796399999999,
+          37.361655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Fresno City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.795129,
+          36.767516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Fullerton College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91698600000001,
+          33.876794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Gavilan College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.568174,
+          36.973273999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Glendale Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.228251,
+          34.166422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Golden West College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00303600000001,
+          33.733775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Grossmont College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.00729199999999,
+          32.816077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Hartnell College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.66876299999998,
+          36.673052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Humboldt State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0814,
+          40.8741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Humboldt State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0814,
+          40.8741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Humboldt State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0814,
+          40.8741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Humboldt State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0814,
+          40.8741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Imperial Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.50390300000001,
+          32.827563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Irvine Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.778575,
+          33.675079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Reedley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.45993,
+          36.605968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Lake Tahoe Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.971631,
+          38.926864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Laney College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26243400000001,
+          37.796205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Lassen Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.631169,
+          40.431327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Long Beach City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.135819,
+          33.831741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Harbor College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28186000000001,
+          33.784201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Pierce College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.575071,
+          34.183949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Southwest College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.304674,
+          33.929586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Trade Technical College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.269447,
+          34.031907000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.421446,
+          34.176406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.292169,
+          34.087301000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Angeles Mission College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.419087,
+          34.314944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Los Medanos College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.861122,
+          38.005552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of Marin",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.54993600000002,
+          37.955014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Mendocino College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.22903000000001,
+          39.19119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Merced College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.476726,
+          37.335347999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Merritt College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16733500000001,
+          37.789088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "MiraCosta College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.302283,
+          33.191231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Mission College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.982174,
+          37.391323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Modesto Junior College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.009723,
+          37.652042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Modesto Junior College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.009723,
+          37.652042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Modesto Junior College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.009723,
+          37.652042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Modesto Junior College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.009723,
+          37.652042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Monterey Peninsula College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.885774,
+          36.590826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Moorpark College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.836624,
+          34.300018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Mt San Antonio College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8437,
+          34.043786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Mt San Jacinto Community College District",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.97006299999998,
+          33.807364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Napa Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274381,
+          38.274081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Ohlone College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.914597,
+          37.527956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Orange Coast College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911401,
+          33.670171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Oxnard College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.15548999999999,
+          34.164899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Palo Verde College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.651698,
+          33.661538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Palomar College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18171799999999,
+          33.15019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Pasadena City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.118196,
+          34.144552000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Porterville College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.01436799999999,
+          36.049256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Ana College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888384,
+          33.759203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Ana College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888384,
+          33.759203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Ana College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888384,
+          33.759203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Ana College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.888384,
+          33.759203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of the Redwoods",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.19529299999999,
+          40.698427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Rio Hondo College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03332900000001,
+          34.01987800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Rio Hondo College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03332900000001,
+          34.01987800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Rio Hondo College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03332900000001,
+          34.01987800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Rio Hondo College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03332900000001,
+          34.01987800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Riverside City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.38054,
+          33.971481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sacramento City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49166000000001,
+          38.541883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Saddleback College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.664876,
+          33.551925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.151641,
+          32.718855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego Mesa College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16916499999999,
+          32.803825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego Mesa College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16916499999999,
+          32.803825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego Mesa College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16916499999999,
+          32.803825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego Mesa College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16916499999999,
+          32.803825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego Miramar College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.120888,
+          32.909546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071228,
+          32.77525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071228,
+          32.77525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071228,
+          32.77525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Diego State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071228,
+          32.77525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Francisco State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477905,
+          37.721345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Francisco State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477905,
+          37.721345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Francisco State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477905,
+          37.721345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Francisco State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477905,
+          37.721345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Joaquin Delta College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.317226,
+          37.994642999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Jose City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.92974699999999,
+          37.316293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Jose State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88062099999999,
+          37.336569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Jose State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88062099999999,
+          37.336569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Jose State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88062099999999,
+          37.336569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Jose State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88062099999999,
+          37.336569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of San Mateo",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336078,
+          37.534357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Barbara City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.698045,
+          34.406788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Monica College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470431,
+          34.018968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Monica College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470431,
+          34.018968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Monica College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470431,
+          34.018968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Monica College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.470431,
+          34.018968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santa Rosa Junior College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.720689,
+          38.454159999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of the Sequoias",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.314775,
+          36.322957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sierra College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21264599999999,
+          38.792758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "College of the Siskiyous",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38916599999999,
+          41.413848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Skyline College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465978,
+          37.630542999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Skyline College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465978,
+          37.630542999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Skyline College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465978,
+          37.630542999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Skyline College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465978,
+          37.630542999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "San Bernardino Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.313814,
+          34.088716999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Solano Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.122368,
+          38.235881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sonoma State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67326100000001,
+          38.341023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sonoma State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67326100000001,
+          38.341023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sonoma State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67326100000001,
+          38.341023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Sonoma State University",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67326100000001,
+          38.341023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Southwestern College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.997215,
+          32.641566999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Taft College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.459751,
+          35.149343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Ventura College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.230659,
+          34.277035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Victor Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26145600000001,
+          34.472231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Berkeley City College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26979299999999,
+          37.87047000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Hills College-Coalinga",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.356747,
+          36.147890999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Los Angeles College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.387578,
+          34.005578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Los Angeles College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.387578,
+          34.005578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Los Angeles College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.387578,
+          34.005578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Los Angeles College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.387578,
+          34.005578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009701,
+          37.263133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Yuba College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.53931599999999,
+          39.125995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Las Positas College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80058000000001,
+          37.710873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Marcos",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15901299999999,
+          33.130569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Marcos",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15901299999999,
+          33.130569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Marcos",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15901299999999,
+          33.130569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-San Marcos",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15901299999999,
+          33.130569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Hacienda La Puente Adult Education",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97955900000001,
+          34.044112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Copper Mountain Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.213939,
+          34.140464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Santiago Canyon College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76805300000001,
+          33.796591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Monterey Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79921599999999,
+          36.653724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Monterey Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79921599999999,
+          36.653724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Monterey Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79921599999999,
+          36.653724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Monterey Bay",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79921599999999,
+          36.653724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "East San Gabriel Valley Regional Occupational Program",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93711100000002,
+          34.077138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Channel Islands",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.04356000000001,
+          34.162949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Channel Islands",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.04356000000001,
+          34.162949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Channel Islands",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.04356000000001,
+          34.162949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "California State University-Channel Islands",
+        "System": "CSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.04356000000001,
+          34.162949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Folsom Lake College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.126697,
+          38.662599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Merced",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.424944,
+          37.366237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Merced",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.424944,
+          37.366237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Merced",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.424944,
+          37.366237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "University of California-Merced",
+        "System": "UC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.424944,
+          37.366237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "West Hills College-Lemoore",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.823866,
+          36.292431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Woodland Community College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.734242,
+          38.660562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Moreno Valley College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.20271000000001,
+          33.887440000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "INSTNM": "Norco College",
+        "System": "CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.568201,
+          33.91675
+        ]
+      }
+    }
+  ]
+}
