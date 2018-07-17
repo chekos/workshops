@@ -14,3 +14,10 @@
   
 5. **Why should I learn a this tool?** <br>
   The `jupyter` toolset has the potential to improve one's workflow by giving one the ability to create rich formatted documents where one can iterate and explore data in a way unmatched by other platforms. It is also open-sourced and widely accepted in most scientific communities nowadays. This means improved reproducibility and shareability of research code and tools. For example, the Urban Institute periodically shares tutorials on how they use these tools for their research [GitHub - PySpark for Social Science](https://github.com/UrbanInstitute/pyspark-tutorials). 
+
+6. **I tried to open a `.ipynb` file and it asked me for a program to open it.** <br>
+  You cannot open a `.ipynb` file by double-clicking it. You *must* launch `jupyter lab` (or `notebook`) to interact with `.ipynb` files.
+  
+7. **How do I install a new package (like `ssc` in `STATA`)?** <br>
+  If you are using `jupyter lab` (or `notebook`) in our servers you **cannot** install packages yourself because these servers are *offline* to protect confidential data in the `Z://` drive. You may contact IT to install whatever package you need. 
+  If you are using `jupyter lab` (or `notebook`) in your personal computer you can use the command `pip install <PACKAGE-NAME>` in a `terminal` window or add `!` before the command if you will run it from a cell in a `jupyter notebook`. For example, if you want to install the visualization package `altair` you can run `!pip install altair` from a `jupyter notebook` or `pip install altair` from a `terminal` window. 
