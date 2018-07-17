@@ -1,6 +1,6 @@
 ![ppic_logo](http://www.ppic.org/wp-content/uploads/ppiclogo.svg)
 
-# RATS in Jupyter Workshop
+# RATS on Jupyter Workshop
 #### July 17th, 2018
 
 
