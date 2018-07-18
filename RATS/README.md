@@ -1,10 +1,9 @@
 ![ppic_logo](http://www.ppic.org/wp-content/uploads/ppiclogo.svg)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Chekos/workshops/master?urlpath=lab?filepath=RATS)
 # RATS on Jupyter Workshop
-#### July 17th, 2018
 
 
-These are the materials for the RATS in Jupyter Workshop of July 17th, 2018
+#### These are the materials for the RATS in Jupyter Workshop of July 17th, 2018
 ***
 ## Goals for this workshop
 "We’ll explore the Jupyter environment, what we can do with it, how you could integrate it into your work."
