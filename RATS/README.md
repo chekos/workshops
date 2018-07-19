@@ -1,5 +1,7 @@
-![ppic_logo](http://www.ppic.org/wp-content/uploads/ppiclogo.svg)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Chekos/workshops/master?urlpath=lab?filepath=RATS)
+
+![ppic_logo](http://www.ppic.org/wp-content/uploads/ppiclogo.svg)
+
 # RATS on Jupyter Workshop
 
 
