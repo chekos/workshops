@@ -45,3 +45,5 @@ Tutorials, cheatsheets, readings:
   - [Datacamp's Ultimate Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - ["Reproducible Data Analysis in Jupyter" by Jake Vanderplas from UW-Seattle](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+  - [QuantEcon Open Notebook Archives](https://quantecon.org/notebooks)
+    > QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making
