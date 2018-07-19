@@ -38,9 +38,10 @@ Resources / References:
   - [Sociology Paper w/ Jupyter Notebook](https://osf.io/preprints/socarxiv/szxdm?file=5a8b336760511e000ddc4e7a)
   - [Discovering Gravitational Waves](http://beta.mybinder.org/repo/losc-tutorial/LOSC_Event_tutorial)
 
-Tutorials
+Tutorials, cheatsheets, readings:
   - [Enthought (Scientific Python - youtube channel)](https://www.youtube.com/user/EnthoughtMedia)
     - [Getting Started with Jupyter Lab (Beginner) - "2 hours" but only about 45-60 minutes of content](https://www.youtube.com/watch?v=Gzun8PpyBCo)
     - [pandas .head() to .tail() (Beginner) - "3 hours" but only about 45-90 minutes of content](https://www.youtube.com/watch?v=lkLl_QKLgcA)
   - [Datacamp's Ultimate Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - ["Reproducible Data Analysis in Jupyter" by Jake Vanderplas from UW-Seattle](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
