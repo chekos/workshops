@@ -1,4 +1,0 @@
-pandas
-ipywidgets
-jupyterlab==0.32.1
-vega
