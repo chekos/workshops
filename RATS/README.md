@@ -32,7 +32,7 @@ Tentative agenda:
 * [FAQ](FAQ.md)
 * [Launching Jupyter Lab in our servers](step-by-step.md)
 ***
-Resources / References:
+References:
 - ["The Scientific Paper is Obsolete" by The Atlantic](https://theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). 
 - [Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
   - [Sociology Paper w/ Jupyter Notebook](https://osf.io/preprints/socarxiv/szxdm?file=5a8b336760511e000ddc4e7a)
