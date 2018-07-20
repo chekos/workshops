@@ -1,1 +1,1 @@
-Here are other resources
+# Curated list of resources
