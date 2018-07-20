@@ -47,3 +47,6 @@ Tutorials, cheatsheets, readings:
   - ["Reproducible Data Analysis in Jupyter" by Jake Vanderplas from UW-Seattle](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
   - [QuantEcon Open Notebook Archives](https://quantecon.org/notebooks)
     > QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making
+  - [Spark for Social Science by Urban Institute](https://urbaninstitute.github.io/spark-social-science-manual/)
+    > The Spark Social Science is an endeavor by the Urban Institute to expand access and understanding of modern big data capabilities to social scientists and public policy reseachers.<br>
+    * Urban Institute will release their scripts on their [GitHub](https://github.com/UrbanInstitute). They have mapping packages like [`urbnmpr`](https://github.com/UrbanInstitute/urbnmapr) for `R` or data scrapers in `python` like this [`ipeds-scraper`](https://github.com/UrbanInstitute/ipeds-scraper) which retrieves data from IPEDS' complete datafiles.
