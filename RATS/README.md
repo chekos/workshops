@@ -30,6 +30,7 @@ Tentative agenda:
 ***
 * [Glossary](glossary.md)
 * [FAQ](FAQ.md)
+* [Launching Jupyter Lab in our servers](step-by-step.md)
 ***
 Resources / References:
 - ["The Scientific Paper is Obsolete" by The Atlantic](https://theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). 
