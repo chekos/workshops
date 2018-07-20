@@ -1,6 +1,6 @@
 ## How to launch `jupyter lab` on our servers
 
-1. **Log into `berryessa` or `tahoe`**<br>
+1. **Log into one of our servers where we have `Anaconda` installed.**<br>
   You may log into either server like you would any other.
   
 2. **BEFORE** double-clicking on that `jupyter notebook` icon, open up `Google Chrome`<br>
