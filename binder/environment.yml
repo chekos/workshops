@@ -4,7 +4,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.7
   - rise
   - altair>=2.1.0
   - ipywidgets=7.3.0
