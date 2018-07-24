@@ -1,5 +1,9 @@
 name: py37
 channels:
   - damianavila82
+  - conda-forge
+  - defaults
 dependencies:
   - rise
+  - pandas==0.23.3
+  - ipywidgets==7.3
