@@ -14,6 +14,7 @@ Readings (Cheatsheets, Tutorials, blog posts, etc.):
   - [Spark for Social Science by Urban Institute](https://urbaninstitute.github.io/spark-social-science-manual/)
     > The Spark Social Science is an endeavor by the Urban Institute to expand access and understanding of modern big data capabilities to social scientists and public policy reseachers.<br>
     - Urban Institute will release their scripts on their [GitHub](https://github.com/UrbanInstitute) from time to time. They have mapping packages like [`urbnmpr`](https://github.com/UrbanInstitute/urbnmapr) for `R` or data scrapers in `python` like this [`ipeds-scraper`](https://github.com/UrbanInstitute/ipeds-scraper) which retrieves data from IPEDS' complete datafiles.
+  - [29 Common Beginner Python Errors in One Page](29errors.pdf) by [Pythonforbiologists.com](pythonforbiologists.com)
     
 Websites:
   - [Datacamp](datacamp.com) offers intro to `R` and `python` courses for free (up to 10 for free). They also have a *premium* tier for $25/mo if you want to keep on taking courses.
