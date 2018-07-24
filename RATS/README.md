@@ -28,9 +28,9 @@ Tentative agenda:
 | 2:40 | <ul> <li> Notebook examples <li> Code along (interactive chart) <li> Other cool notebooks |
 
 ***
-* [Glossary](glossary.md)
-* [FAQ](FAQ.md)
-* [Launching Jupyter Lab in our servers](step-by-step.md)
+* [Glossary](glossary.ipynb)
+* [FAQ](FAQ.ipynb)
+* [Launching Jupyter Lab in our servers](step-by-step.ipynb)
 ***
 References:
 - ["The Scientific Paper is Obsolete" by The Atlantic](https://theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). 
