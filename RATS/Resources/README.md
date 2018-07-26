@@ -23,3 +23,6 @@ Websites:
     > The tools, methods, and techniques that D-Lab teaches scholars in the social sciences and digital humanities provide the ability to engage with complex research questions and produce answers that benefit academic colleagues, policymakers, and the public. 
   - [data-to-viz](data-to-viz.com) contains a curated list of many different types of charts and links to `R` and `python` galleries where you can learn how to create that chart.
     > From Data to Viz is a classification of chart types based on input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent the dataset.
+
+Data:
+  - [A list of good small datasets to practice](http://veekaybee.github.io/2018/07/23/small-datasets/)
