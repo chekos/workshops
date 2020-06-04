@@ -30,17 +30,21 @@ def bar_chart(country):
     
     data = df[df['year'] > '1990-01-01'].copy()
     data['year'] = data['year'].dt.year
-    
-    bar_chart = alt.Chart(data[data['bpld'] == country]).mark_bar().encode(
-        x = alt.X('year:O', axis = alt.Axis(title = 'Year',),),
-        y = alt.Y('perwt:Q', axis = alt.Axis(title = 'Number of People',), ),
-        color = alt.Color('agg educd', legend = alt.Legend(title = 'Educational Attainment'), scale = scale_educ),
-    ).properties(
-        title = f'{country}'.capitalize(),
-        width = 500,
-        height = 300,
-    ) 
-    return bar_chart
+
+    return (
+        alt.Chart(data[data['bpld'] == country])
+        .mark_bar()
+        .encode(
+            x=alt.X('year:O', axis=alt.Axis(title='Year',),),
+            y=alt.Y('perwt:Q', axis=alt.Axis(title='Number of People',),),
+            color=alt.Color(
+                'agg educd',
+                legend=alt.Legend(title='Educational Attainment'),
+                scale=scale_educ,
+            ),
+        )
+        .properties(title=f'{country}'.capitalize(), width=500, height=300,)
+    )
     
 def line_chart():
     '''
@@ -67,10 +71,10 @@ def line_chart():
     # Essentially I'm creating really big circles around each point and making them 100% transparent
     # whenever the mouse is on top of a circle the tooltip will display the value. Hence the big circles.
     upper_chart_points = upper_chart.mark_point(size = 500).encode(tooltip = alt.Tooltip('perwt:Q', format = ',',), opacity = alt.value(0))
-    
+
     # Layers
     upper_chart_layered = upper_chart + upper_chart_points
-    
+
     # Creates smaller chart to use as slider
     lower_chart = upper_chart.encode(
         x = alt.X('year:T', axis = alt.Axis(title = 'Slider', format = '%Y') ,),
@@ -81,8 +85,7 @@ def line_chart():
         height = 30,
     )
 
-    chart = alt.vconcat(upper_chart_layered, lower_chart)
-    return chart
+    return alt.vconcat(upper_chart_layered, lower_chart)
 
 def education_chart():
     '''
